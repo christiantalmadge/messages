@@ -1,0 +1,4 @@
+[06-Apr-2018 02:45:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'christiantal'@'localhost' (using password: YES) in /home/ctalmadg/public_html/IT328/formsReview/database/db.php on line 11
+[06-Apr-2018 02:48:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'christiantal'@'localhost' (using password: YES) in /home/ctalmadg/public_html/IT328/formsReview/database/db.php on line 11
+[06-Apr-2018 02:58:43 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/ctalmadg/public_html/IT328/formsReview/database/db.php on line 33
+[06-Apr-2018 03:01:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ctalmadg/public_html/IT328/formsReview/database/db.php on line 44
